@@ -2,4 +2,4 @@
 
 # Atividade de P.I #
 
-# Professores: Fernanda Karamiko & William #
+# Professores: Fernanda Caramiko & William #
